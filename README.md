@@ -20,7 +20,7 @@ rich
 ###### Make sure you have all the requirements installed...
 1. Clone this repositiory (or download and extract the .zip)
 ```
-git clone https://github.com/DarkGuy10/N-u-ked
+git clone https://github.com/DarkGuy10/EmojiSteal
 ```
 2. Get your Discord user token. Don't know how? [Click here](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token)
 
